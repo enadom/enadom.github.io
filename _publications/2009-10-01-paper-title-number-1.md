@@ -1,21 +1,30 @@
 ---
-title: "A Financial Comparison of Small-Scale Quail and Laying Hen Farm Enterprises"
+title: "Economic Comparison of Stocker Cattle Performance on Winter Wheat vs. Summer-Dormant Tall Fescue with Nitrogen or Interseeded Alfalfa in the Southern Great Plains"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-quail-chicken-comparison
-excerpt: "This study evaluates the economic feasibility of small-scale egg production systems using chickens and quail, comparing profitability under different production choices and market prices. Quail emerged as the most profitable enterprise, particularly when selling at farmers' market prices."
-date: 2023-01-10
-venue: 'Poultry Science, Volume 102, 102507'
-paperurl: 'https://doi.org/10.1016/j.psj.2023.102507'
-citation: 'Adom, E., Bir, C., & Lambert, L.H. (2023). A Financial Comparison of Small-Scale Quail and Laying Hen Farm Enterprises. <i>Poultry Science</i>, 102:102507. https://doi.org/10.1016/j.psj.2023.102507'
+permalink: /publication/2024-fescue-vs-wheat
+excerpt: "This 5-year study compares the economic and animal performance outcomes of stocker cattle grazing systems using winter wheat and three tall fescue-based systems in south-central Oklahoma. Results show that while wheat systems produce greater total gain and gross revenue, tall fescue systems offer cost savings and comparable net returns, suggesting their viability as an alternative forage strategy."
+date: 2024-11-06
+venue: 'Translational Animal Science, Volume 8, txae154'
+paperurl: 'https://doi.org/10.1093/tas/txae154'
+citation: 'Adom, E., Biermacher, J. T., Brorsen, B. W., Interrante, S. M., Lambert, D. M., & Butler, T. J. (2024). Economic comparison of stocker cattle performance on winter wheat vs. summer-dormant tall fescue with nitrogen or interseeded alfalfa in the Southern Great Plains. <i>Translational Animal Science</i>, 8, txae154. https://doi.org/10.1093/tas/txae154'
 ---
-This paper compares the economic viability of small-scale egg production using 1,000 birds across three systems: chickens with molting (CWM), chickens without molting (CNM), and quail. Using a ten-year cost-benefit simulation model, the study incorporates both farm gate and farmers’ market prices to evaluate profitability.
 
-Key findings include:
-- **Raising quail** yields the highest Net Present Value (NPV), regardless of price scenario.
-- **Chicken production without molting** is more profitable than with molting, primarily due to reduced egg production during molting periods.
-- All three systems are **profitable under farmers’ market prices**, but only **quail is viable under farm gate prices**.
+This study evaluates the performance and profitability of stocker cattle grazing on four forage systems in Oklahoma:  
+- (1) traditional winter wheat,  
+- (2) two summer-dormant tall fescue systems fertilized with nitrogen (FLCH-N, CHSM-N), and  
+- (3) a tall fescue system interseeded with alfalfa (FLALF).  
 
-The results underscore the importance of market access and production strategy for small-scale producers. While quail is the most financially promising, marketing challenges may limit adoption. This research offers valuable insights for producers, extension agents, and policy advocates promoting sustainable local agriculture.
+Using a 5-year field experiment, the analysis found:
+- **Wheat systems** provided the highest total gain and gross revenue.
+- **Tall fescue systems** significantly reduced total production costs.
+- **Net returns** were statistically similar across systems (~$145/ha), highlighting the **economic viability of perennial systems**.
 
-Keywords: small-scale farming, quail, chicken, egg production, net present value, molting, cost-benefit analysis
+Sensitivity analysis revealed:
+- The **FLALF system is less sensitive to fertilizer price increases**, offering stability in volatile input markets.
+- Perennial systems may be **more resilient** in terms of net returns, particularly when fertilizer prices rise or cost-of-gain changes.
+- Stand life assumptions significantly affect long-term profitability—shorter stand lives favor the annual wheat system.
+
+📌 This research suggests that while annual wheat remains the standard for stocker systems, tall fescue-based alternatives offer cost-effective, sustainable options that reduce reliance on synthetic nitrogen without sacrificing profitability.
+
+**Keywords**: grazing economics, tall fescue, winter wheat, nitrogen, alfalfa, net returns, Southern Great Plains
