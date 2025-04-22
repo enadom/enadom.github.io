@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Enoch K. Adom"
+title: "Enoch Adom, PhD"
 author_profile: true
 redirect_from: 
   - /about/
