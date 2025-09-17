@@ -9,9 +9,7 @@ redirect_from:
 
 Welcome! 
 
-<p align="center">
-  <img src="{{ '/images/Enoch3.png' | relative_url }}" alt="Enoch Adom" width="260" style="border-radius:12px;">
-</p>
+<img src="{{ '/images/Enoch3.png' | relative_url }}" alt="Enoch Adom" style="float:left; width:220px; margin:0 16px 12px 0; border-radius:12px;">
 
 I am a Postdoctoral Researcher in Agricultural Economics at the University of Nevada, Reno. My work explores the economic impacts of climate change, drought adaptation, and land management practices in rural communities.
 
