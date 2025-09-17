@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Researcher in Agricultural Economics at the University of Nevada, Reno. My work explores the economic impacts of climate change, drought adaptation, and land management practices in rural communities.
+Welcome! 
+
+<p align="center">
+  <img src="{{ '/images/Enoch3.png' | relative_url }}" alt="Enoch Adom" width="260" style="border-radius:12px;">
+</p>
+
+I am a Postdoctoral Researcher in Agricultural Economics at the University of Nevada, Reno. My work explores the economic impacts of climate change, drought adaptation, and land management practices in rural communities.
 
 I earned my PhD in Agricultural Economics from Oklahoma State University, where I studied nitrogen management strategies in winter wheat production and the economics of prescribed fire and invasive species control.
 
